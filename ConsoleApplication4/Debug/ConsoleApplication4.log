@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(77): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(77): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(78): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(78): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(79): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(79): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(80): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(80): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(109): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\eric\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(109): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  ConsoleApplication4.vcxproj -> C:\Users\Eric\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Debug\学生成绩信息管理系统.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Eric\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Debug\学生成绩信息管理系统.pdb (Full PDB)
